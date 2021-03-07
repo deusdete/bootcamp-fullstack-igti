@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+
+.content {
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: azure;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+p {
+    font-size: 16px;
+    color: rgb(50, 50, 50);
+    margin-bottom: 4px;
+}
+
+.inputForm {
+    margin: 12px 0;
+}
+
+input {
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    background-color: rgb(254, 254, 254);
+    border-radius: 3px;
+    border-style: none;
+    width: 250px;
+}
